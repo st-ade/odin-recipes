@@ -1,1 +1,1 @@
-# odin-recipes
+This project was to set up basic website, including links to pages within the website (including 'Home' links), embedded images and html tags e.g. headers, lists.
