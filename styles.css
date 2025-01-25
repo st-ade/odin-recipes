@@ -1,0 +1,44 @@
+* {
+    background-color: bisque;
+}
+
+.header, .bodymain {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    text-align: center;
+    font-size: 36px;
+}
+
+.header2, .header3 {
+    font-family: Garamond, serif;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.header3 {
+    font-size: 24px;
+    font-style: normal;
+    text-decoration: underline;
+    font-weight: 200;
+}
+
+.list {
+    margin-left:43%;
+    color: #2b3f63;
+}
+
+.recipe-chunks{
+    border: 3px solid rgb(202, 134, 45);
+    padding: 24px;
+    margin: 7px;
+}
+
+
+.credits {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: none;
+}
